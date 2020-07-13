@@ -1,4 +1,5 @@
-# maltalef101's build (it's really Luke Smith's build but i changed the font and some aesthetic features) of st - the simple (suckless) terminal
+# maltalef101's build of st - the simple (suckless) terminal
+(it's really Luke Smith's build but i changed the font and some aesthetic features)
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
