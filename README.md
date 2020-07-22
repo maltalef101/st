@@ -3,6 +3,8 @@
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 
+Available in the AUR as `st-maltalef-git`
+
 ## Unique features (using dmenu)
 
 + **follow urls** by pressing `alt-l`
