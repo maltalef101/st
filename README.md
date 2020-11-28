@@ -1,6 +1,9 @@
-# maltalef101's build (it's really Luke Smith's build but i changed the font and some aesthetic features) of st - the simple (suckless) terminal
+# maltalef101's build of st - the simple (suckless) terminal
+(it's really Luke Smith's build but i changed the font and some aesthetic features)
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
+
+Available in the AUR as `st-maltalef-git`
 
 ## Unique features (using dmenu)
 
@@ -36,7 +39,7 @@ git clone https://github.com/LukeSmithxyz/st
 cd st
 sudo make install
 ```
-Because of the font it uses thatit uses that  I added, you'll need to install `ttf-dejavu`. It might be obvious, but `libX11` and `libXft` are required as well. Chances are, you have all of this installed already.
+Because of the font it uses that it uses that  I added, you'll need to install `ttf-dejavu`. It might be obvious, but `libX11` and `libXft` are required as well. Chances are, you have all of this installed already.
 
 On OpenBSD, be sure to edit `config.mk` first and remove `-lrt` from the `$LIBS` before compiling.
 
